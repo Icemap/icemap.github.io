@@ -3,9 +3,10 @@ layout: single
 title:  "fast.ai 术语表格"
 date:   2022-01-28 11:13:51 +0800
 categories:
-  - Blog
+  - fast.ai
 tags:
-  - fastai
+  - 术语
+  - Markdown
 ---
 
 # fastbook内的术语表格

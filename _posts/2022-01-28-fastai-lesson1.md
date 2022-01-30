@@ -3,9 +3,9 @@ layout: single
 title:  "fast.ai 学习 第一课笔记"
 date:   2022-01-28 16:13:51 +0800
 categories:
-  - Blog
+  - fast.ai
 tags:
-  - fastai
+  - 笔记
 ---
 ## 1. Loss And Metric
 

@@ -3,9 +3,11 @@ layout: single
 title:  "fast.ai 学习 第二课笔记"
 date:   2022-01-29 16:13:51 +0800
 categories:
-  - Blog
+  - fast.ai
 tags:
-  - fastai
+  - 笔记
+  - 白嫖
+  - Unsplash
 ---
 
 ## 1. 替换Bing API
