@@ -11,6 +11,7 @@ tags:
 ---
 
 ## 1. 替换Bing API
+
 好家伙，上来就是一个大活，Bing API这位更是重量级，要Azure注册，Azure注册需要Visa卡……
 
 我老白嫖党了，能受你们这个气？

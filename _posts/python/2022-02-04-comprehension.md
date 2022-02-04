@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Python推导式"
-date:   2022-02-04 15:47:51 +0800
+date:   2022-02-04 16:00:51 +0800
 categories:
   - python grammer
 tags:
@@ -9,6 +9,7 @@ tags:
 ---
 
 ## 1. 列表推导式
+
 ```python
 # list
 print("list")
