@@ -3,12 +3,10 @@ layout: single
 title:  "Python推导式"
 date:   2022-02-04 15:47:51 +0800
 categories:
-  - python
+  - python grammer
 tags:
 	- 语法
 ---
-
-# 推导式
 
 ## 1. 列表推导式
 ```python

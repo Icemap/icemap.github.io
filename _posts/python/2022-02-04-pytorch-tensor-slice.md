@@ -3,11 +3,13 @@ layout: single
 title:  "pytorch 张量切片"
 date:   2022-02-04 15:47:51 +0800
 categories:
-  - python
+  - python grammer
 tags:
 	- 语法
 	- pytorch
 ---
+
+# 张量切片
 
 - 类比数组切片，暂时还没发现有什么区别
 
