@@ -107,3 +107,11 @@ Traceback (most recent call last):
 TypeError: unsupported operand type(s) for /: 'list' and 'int'
 '''
 ```
+
+# 4. 线性代数
+
+- 补了一周线性代数……
+
+
+# 5. Lesson4 总结笔记本
+[Lesson4](https://colab.research.google.com/drive/1u7C1r3TbS2XMrz6DvzQfp0town5TlZRF?usp=sharing)

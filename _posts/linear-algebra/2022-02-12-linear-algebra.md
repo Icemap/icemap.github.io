@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "程序员眼里的线性代数"
-date:   2022-02-04 16:00:51 +0800
+date:   2022-02-12 16:00:51 +0800
 categories:
   - linear algebra
 tags:
@@ -14,7 +14,7 @@ tags:
 - 主要精力集中在两个课程中：
 
 1. 麻省理工Gibert Strang教授讲的18.06：[网易公开课](https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)这里有中文字幕
-2. 3Blue1Brown的`线性代数的本质`系列：[Bilibili](https://www.bilibili.com/video/BV1ys411472E)这里是中文官方账号
+2. 3Blue1Brown的`线性代数的本质`系列：[Bilibili](https://www.bilibili.com/video/BV1ys411472E)这里是中文官方账号的合集
 
 总结一下从程序员角度理解的体会：
 
